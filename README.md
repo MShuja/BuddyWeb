@@ -5,4 +5,8 @@ Some useful links
 
 •HTML5 UP(https://html5up.net/) – free beautiful website templates for download
 
-Some CSS Scrits (http://cssreset.com/)
+•Some CSS Scripts (http://cssreset.com/)
+
+•Tutorial for java/css (https://tutorial.onsen.io/)
+
+•Lightbox(http://lokeshdhakar.com/projects/lightbox2/) - useful css/java script
